@@ -1,0 +1,27 @@
+[
+    {
+        "question": "How many days of annual leave do I get?",
+        "expected_answer": "20 days of paid annual leave per calendar year",
+        "expected_source": "HR_Leave_Policy.txt"
+    },
+    {
+        "question": "What is the limit on gifts from vendors?",
+        "expected_answer": "Accepting gifts exceeding $50 in value is strictly prohibited.",
+        "expected_source": "HR_Code_of_Conduct.txt"
+    },
+    {
+        "question": "How much is the home office stipend?",
+        "expected_answer": "A one-time stipend of $500.",
+        "expected_source": "HR_Remote_Work.txt"
+    },
+    {
+        "question": "What should I do if my system doesn't have a C-wire for the SmartThermo?",
+        "expected_answer": "Use the included power adapter kit.",
+        "expected_source": "Product_Manual_SmartThermo.txt"
+    },
+    {
+        "question": "How long is the battery life of the EchoSound Pro earbuds without the case?",
+        "expected_answer": "8 hours of playback.",
+        "expected_source": "Product_Manual_EchoSound.txt"
+    }
+]

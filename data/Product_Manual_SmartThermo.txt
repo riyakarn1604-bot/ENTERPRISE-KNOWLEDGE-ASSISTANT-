@@ -1,0 +1,15 @@
+SmartThermo V2 - User Manual
+
+1. Introduction
+Welcome to SmartThermo V2, the next-generation smart thermostat. 
+Features include machine-learning temperature control, Wi-Fi connectivity, and voice assistant integration.
+
+2. Installation
+Turn off power at the circuit breaker before installation.
+Connect the C-wire (common wire) to the terminal marked 'C'. 
+If your system does not have a C-wire, use the included power adapter kit.
+Mount the base plate using the provided screws and snap the display unit onto the base.
+
+3. Troubleshooting
+Error Code E71: No power to the Rc wire. Check the HVAC system's breaker and ensure the front panel is securely attached.
+Wi-Fi Drops: Ensure your router is broadcasting on the 2.4GHz band. SmartThermo V2 does not support 5GHz networks.

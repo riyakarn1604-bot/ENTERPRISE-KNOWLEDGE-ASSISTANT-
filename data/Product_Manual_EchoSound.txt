@@ -1,0 +1,14 @@
+EchoSound Pro - Wireless Earbuds Manual
+
+1. Pairing
+Open the charging case near your device. Press and hold the pairing button on the back of the case for 3 seconds until the LED flashes white.
+Select "EchoSound Pro" from your device's Bluetooth menu.
+
+2. Controls
+Single tap on either earbud to play/pause.
+Double tap the right earbud to skip forward, double tap the left to skip backward.
+Press and hold either earbud for 2 seconds to toggle between Active Noise Cancellation and Transparency Mode.
+
+3. Battery and Charging
+The earbuds offer 8 hours of playback. The charging case provides an additional 24 hours.
+Place the earbuds in the case and connect the case via USB-C to charge. A full charge takes 1.5 hours.
